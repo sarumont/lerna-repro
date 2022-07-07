@@ -1,6 +1,6 @@
 {
-  "name": "@sarumont/foo",
-  "version": "1.1.0",
+  "name": "@sarumont/bar",
+  "version": "0.9.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,5 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "rimraf": "^3.0.2"
-  }
+  "gitHead": "880d0dc6df33de8cd22d342203e2c70ee019d4ae"
 }
